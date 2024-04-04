@@ -14,8 +14,11 @@ Küçük bir şirketin maaş bordrolarını oluşturan bir uygulamadır.
 Şirketimize yazılacak olan maaş bordro program en az iki tipte (Yonetici ve Memur) personeline maaşlarını hesaplar, kayıt altına alır ve raporlama işlemlerine sahiptir.
 Ayrıca projemize daha sonradan oluşabilecek yeni personel kadroları dahilinde genişletilebilirdir.
 Maaş Bordro Programını İşlevleri:
+
 •Her personelin maaş hesabı saatlik ücret * çalışma saati bilgileri doğrultusunda hesaplanır.
+
 •Yoneticinin saatlik ucreti 500 den kucuk olamaz ve her her yoneticiye maaş dışında bonus adlı ek bir ödeme alır.
+
 •Memurların maaşı maksimum 180 saat den hesaplanır. 180 saati geçen her çalışma süresi normal saatlik ücretin 1.5 katı bedelle belirlenerek ek mesai ücreti olarak ana maaşa eklenir.
 •Memurun saatlik ücreti varsayılan olarak 500 TL dir. Fakat memurun derecesine göre değişebilir olmalıdır.
 •Memur ve Yonetici listesi bir json dosyası olarak verilecektir. Program maaş hesaplamaya .jsondosyasından okuma yaparak sırasıyla personelin maaş bilgilerinin girişi yapılmasını isteyecektir.
