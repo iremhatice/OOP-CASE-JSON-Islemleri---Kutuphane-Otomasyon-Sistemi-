@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\bin\Debug\net6.0\CSProjeDemo1.deps.json
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\bin\Debug\net6.0\CSProjeDemo1.dll
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\bin\Debug\net6.0\CSProjeDemo1.pdb
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\obj\Debug\net6.0\CSProjeDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\obj\Debug\net6.0\CSProjeDemo1.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\obj\Debug\net6.0\CSProjeDemo1.AssemblyInfo.cs
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\obj\Debug\net6.0\CSProjeDemo1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\obj\Debug\net6.0\CSProjeDemo1.dll
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\obj\Debug\net6.0\refint\CSProjeDemo1.dll
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\obj\Debug\net6.0\CSProjeDemo1.pdb
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CSProjeDemo1\obj\Debug\net6.0\ref\CSProjeDemo1.dll

@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\bin\Debug\net6.0\CS.ProjeDemo2.deps.json
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\bin\Debug\net6.0\CS.ProjeDemo2.dll
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\bin\Debug\net6.0\CS.ProjeDemo2.pdb
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\obj\Debug\net6.0\CS.ProjeDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\obj\Debug\net6.0\CS.ProjeDemo2.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\obj\Debug\net6.0\CS.ProjeDemo2.AssemblyInfo.cs
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\obj\Debug\net6.0\CS.ProjeDemo2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\obj\Debug\net6.0\CS.ProjeDemo2.dll
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\obj\Debug\net6.0\refint\CS.ProjeDemo2.dll
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\obj\Debug\net6.0\CS.ProjeDemo2.pdb
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\obj\Debug\net6.0\ref\CS.ProjeDemo2.dll
+C:\Users\pc\source\repos\OOP-Sinav-IremHaticeKars\OOP_CASE-Sinav-IremHaticeKars\CS.ProjeDemo2\obj\Debug\net6.0\CS.ProjeDemo2.csproj.AssemblyReference.cache
